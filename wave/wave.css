@@ -52,7 +52,7 @@ h3{
     justify-content: center;
     text-align: center;
     margin: 5px;
-    transition: 0.3 ease;
+    transition: ease 0.2s;
 }
 
 .cup.cup-small.full{
@@ -75,7 +75,7 @@ h3{
     justify-content: center;
     text-align: center;
     flex: 1;
-    transition: 0.3s ease;
+    transition: ease 0.2s;
 }
 
 .remained span{
@@ -93,9 +93,9 @@ h3{
     align-items: center;
     justify-content: center;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 29px;
     height: 0;
-    transition: 0.3 ease;
+    transition: ease 0.3s;
 }
 
 .text{
